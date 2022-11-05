@@ -2,6 +2,7 @@ import React from 'react'
 import Project from '../components/Project';
 import SocialMedia from '../assets/SocialMedia.jpg';
 import Spreadsheet from '../assets/Spreadsheet.jpg';
+import '../styles/Project.css';
 
 function Projects() {
   return (
