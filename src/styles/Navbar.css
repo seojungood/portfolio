@@ -1,0 +1,15 @@
+.navbar {
+  width: 100%;
+  height: 100px;
+  background: #71797e;
+}
+
+.links {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+}
+
