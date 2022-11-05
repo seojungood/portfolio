@@ -9,7 +9,7 @@ function Navbar() {
 
   
   return (
-    <div className='navbar'>
+    <div className='navbar' id={expandNavbar ? "open" : "close"}>
       <div className='toggleButton'>
         <button 
           onClick={()=>{setExpandNavbar((prev)=> !prev)}}>
