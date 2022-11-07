@@ -3,8 +3,10 @@ import LinkedInIcon from '@material-ui/icons/LinkedIn';
 import GithubIcon from '@material-ui/icons/GitHub';
 import EmailIcon from '@material-ui/icons/Email';
 import '../styles/Home.css';
+import Pdf from '../documents/Resume.pdf';
 
 function Home() {
+
   return (
     <div className='home'>
       <div className='about'>
@@ -14,10 +16,10 @@ function Home() {
             Software developer with a passion and ambition for learning and creating.
           </p>
           <div className='links'>
-            <button>Resume</button>
-            <LinkedInIcon />
-            <GithubIcon />
-            <EmailIcon />
+            <a href={Pdf} target='_blank'>Resume</a>
+            <LinkedInIcon onClick={() => window.open('https://www.linkedin.com/in/seojun-chung-aa3067252/', '_blank')}/>
+            <GithubIcon onClick={()=> window.open('https://github.com/seojungood')}/>
+            <EmailIcon onClick={()=> window.open('mailto:seojungood@gmail.com')}/>
           </div>
         </div>
       </div>
