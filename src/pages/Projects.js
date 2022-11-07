@@ -9,7 +9,12 @@ function Projects() {
       <h1>My Projects</h1>
       <div className='projectList'>
         {ProjectList.map((project, index)=>{
-          return <Project id={index} name={project.name} image={project.image} />
+          return <Project 
+            id={index} 
+            name={project.name} 
+            image={project.image} 
+            githubLink={project.githubLink}
+            demoLink={project.demoLink}/>
         })}
       </div>
     </div>

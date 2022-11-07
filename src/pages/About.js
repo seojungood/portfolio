@@ -7,7 +7,18 @@ import '../styles/About.css'
 
 function About() {
   return (
-    <div className='experience'>
+    <div className='experience'> 
+      <div className='aboutme'>
+        <h2>Hello again, My name is Seojun Chung</h2>
+          {/* <p> 
+            I'm a software developer and currently a student at the 
+            University of Utah majoring in Computer Science.
+          </p>
+          <p>
+            I have great passion and ambition towards building applications 
+            and  
+          </p> */}
+      </div>
       <VerticalTimeline lineColor='black'>
 
         <VerticalTimelineElement 

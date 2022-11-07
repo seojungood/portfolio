@@ -13,7 +13,10 @@ function ProjectDisplay() {
       <h1>{project.name}</h1>
       <img src={project.image} />
       <p><b>Skills: </b>{project.skills}</p>
-      <GithubIcon />
+      <div className='links'>
+        <GithubIcon onClick={()=> window.open(project.githubLink)} />
+        <a href={project.demoLink} target='_blank'>Demo</a>
+      </div>
     </div>
   )
 }
