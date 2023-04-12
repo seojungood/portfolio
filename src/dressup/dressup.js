@@ -53,15 +53,21 @@ function Dressup() {
   function checkClothingIndex() {
     const [top, bottom, shoes] = clothingIndex;
     if (top === bottom && bottom === shoes && top == 1) {
-      window.location.href = 'https://github.com/seojungood/portfolio';
+      setTimeout(function() {
+        window.location.href = 'https://github.com/seojungood/portfolio';
+      }, 3000);
     }
     if (top === bottom && bottom === shoes && top == 2) {
-      navigate('/projects');
-      window.scrollTo(0,0);
+      setTimeout(function() {
+        navigate('/projects');
+        window.scrollTo(0,0);
+      }, 3000);
     }
     if (top === bottom && bottom === shoes && top == 3) {
-      navigate('/about');
-      window.scrollTo(0,0);
+      setTimeout(function() {
+        navigate('/about');
+        window.scrollTo(0,0);
+      }, 3000);
     }
   }
 
