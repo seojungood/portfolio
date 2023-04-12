@@ -1,6 +1,9 @@
 import Spreadsheet from '../assets/Spreadsheet.jpg';
 import SocialMedia from '../assets/SocialMedia.jpg';
+import GameDay from '../assets/GameDay.jpg';
 import SpreadsheetREADME from '../documents/SpreadsheetREADME.pdf';
+import GameDayWhitePaper from '../documents/GameDayWhitePaper.pdf';
+import GameDayInfographic from '../documents/GameDayInfographic.pdf';
 
 export const ProjectList = [
   {
@@ -16,5 +19,12 @@ export const ProjectList = [
     skills: "C#, MAUI, XAML",
     githubLink: SpreadsheetREADME,
     demoLink: "https://youtu.be/qKMoC4Z3LO0"
+  },
+  {
+    name: "Super Bowl Twitter Data Analysis",
+    image: GameDay,
+    skills: "Python, Tableau, Tableau Prep",
+    githubLink: GameDayWhitePaper,
+    demoLink: GameDayInfographic
   }
 ]

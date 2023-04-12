@@ -4,6 +4,7 @@ import GithubIcon from '@material-ui/icons/GitHub';
 import EmailIcon from '@material-ui/icons/Email';
 import '../styles/Home.css';
 import Pdf from '../documents/Resume.pdf';
+import Dressup from '../dressup/dressup';
 
 function Home() {
 
@@ -13,7 +14,7 @@ function Home() {
         <h2>Hello, I'm Seojun Chung</h2>
         <div className='prompt'>
           <p> 
-            Software developer with a passion and ambition for learning and creating.
+            Software developer with a passion and ambition for designing and creating.
           </p>
           <div className='links'>
             <a href={Pdf} target='_blank'>Resume</a>
@@ -23,25 +24,34 @@ function Home() {
           </div>
         </div>
       </div>
+      
+      <Dressup />
+
       <div className='skills'>
         <h1>Skills</h1>
         <ol className='list'>
           <li className='item'>
             <h2>Front-End</h2>
             <span>
-              ReactJS, HTML, CSS
+              ReactJS, NodeJS, HTML, CSS
             </span>
           </li>
           <li className='item'>
             <h2>Back-End</h2>
             <span>
-              Firebase, ...Learning MySQL
+              Firebase, SQL, MySQL
             </span>
           </li>
           <li className='item'>
             <h2>Language</h2>
             <span>
-              Javascript, Java, C#, Typescript
+              TypeScript, JavaScript, Java, C#, C++
+            </span>
+          </li>
+          <li className='item'>
+            <h2>Data Analytics</h2>
+            <span>
+              Python, Tableau, Tableau Prep
             </span>
           </li>
         </ol>

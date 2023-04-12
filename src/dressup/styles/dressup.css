@@ -1,0 +1,139 @@
+.dressUp{
+  display: flex;
+  flex-direction: column;
+}
+.gameContainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 100%;
+  height: 599px;
+  background-color: black;
+}
+.container{
+  position: absolute;
+  margin: auto;
+  width: 416px;
+  height: 599px;
+  background-color: black;
+}
+.head{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  background-image: url("../assets/head/head1rm.png");
+}
+/* Top */
+.top1, .top2, .top3{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+.top1{
+  background-image: url("../assets/top/top1rm.png");
+}
+.top2{
+  background-image: url("../assets/top/top2rm.png");
+}
+.top3{
+  background-image: url("../assets/top/top3rm.png");
+}
+/* Bottom */
+.bottom1, .bottom2, .bottom3{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 4;
+}
+
+.bottom1{
+  background-image: url("../assets/bottom/bottom1rm.png");
+}
+.bottom2{
+  background-image: url("../assets/bottom/bottom2rm.png");
+}
+.bottom3{
+  background-image: url("../assets/bottom/bottom3rm.png");
+}
+/* Shoes */
+.shoes1, .shoes2, .shoes3{
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  z-index: 3;
+}
+.shoes1{
+  background-image: url("../assets/shoes/shoe1rm.png");
+}
+.shoes2{
+  background-image: url("../assets/shoes/shoe2rm.png");
+}
+.shoes3{
+  background-image: url("../assets/shoes/shoe3rm.png");
+}
+
+/* Button */
+.button{
+  z-index: 0;
+  cursor: pointer;
+  /* background-image: url("../assets/button/arrow.png");   */
+  background-size: 50px;
+  width: 20px;
+  height: 20px;
+  border-radius: 50px;
+  border: none;
+}
+.buttonContainer{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+/* information */
+.infoContainer{
+  display: flex;
+  justify-content: right;
+  align-items: center;
+  background-color: black;
+  width: 100%;
+  height: 50px;
+}
+
+.fits{
+  display: flex;
+  display: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.infoButton{
+  z-index: 0;
+  padding-right: 100px;
+  cursor: pointer;
+}
+
+.fitContainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.fitContainer p{
+  background-color: lightgray;
+  border: 1px solid none;
+  border-radius: 50px;
+  padding: 5px 10px;
+}
+
+img{
+  height: 250px;
+  width: 100%;
+}
+
+@media only screen and (max-width: 850px) {
+  .dressUp{
+    display: none;
+  }
+}
