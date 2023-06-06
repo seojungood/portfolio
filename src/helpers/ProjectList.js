@@ -1,6 +1,8 @@
 import Spreadsheet from '../assets/Spreadsheet.jpg';
 import SocialMedia from '../assets/SocialMedia.jpg';
 import GameDay from '../assets/GameDay.jpg';
+import Todolist from '../assets/todolist.webp';
+
 import SpreadsheetREADME from '../documents/SpreadsheetREADME.pdf';
 import GameDayWhitePaper from '../documents/GameDayWhitePaper.pdf';
 import GameDayInfographic from '../documents/GameDayInfographic.pdf';
@@ -26,5 +28,12 @@ export const ProjectList = [
     skills: "Python, Tableau, Tableau Prep",
     githubLink: GameDayWhitePaper,
     demoLink: GameDayInfographic
+  },
+  {
+    name: "Todo List (Next.js)",
+    image: Todolist,
+    skills: "Next.js, TypeScript, Prisma, Tailwind css",
+    githubLink: "https://github.com/seojungood/TodoList-nextjs",
+    demoLink: "https://youtu.be/Ulvz1D29GDA"
   }
 ]

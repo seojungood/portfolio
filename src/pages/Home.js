@@ -33,7 +33,7 @@ function Home() {
           <li className='item'>
             <h2>Front-End</h2>
             <span>
-              ReactJS, NodeJS, HTML, CSS
+              NextJS, ReactJS, NodeJS, HTML, CSS (Tailwind)
             </span>
           </li>
           <li className='item'>

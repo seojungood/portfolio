@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.38ffc42f.css",
-    "main.js": "/static/js/main.cf7ca04d.js",
+    "main.js": "/static/js/main.11d4aab1.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/GameDayWhitePaper.pdf": "/static/media/GameDayWhitePaper.8a2a4df2464c52c5078d.pdf",
     "static/media/GameDayInfographic.pdf": "/static/media/GameDayInfographic.402e4b42eccaecfd4847.pdf",
@@ -12,6 +12,7 @@
     "static/media/fit2rm.png": "/static/media/fit2rm.68dc43f6c789de4b3bb4.png",
     "static/media/SpreadsheetREADME.pdf": "/static/media/SpreadsheetREADME.ac60c6260d7721606a6a.pdf",
     "static/media/fit3rm.png": "/static/media/fit3rm.8fdec8a4af53c9c5b836.png",
+    "static/media/todolist.webp": "/static/media/todolist.6a7fa87728fdf7c5ac52.webp",
     "static/media/fit1rm.png": "/static/media/fit1rm.437b6581b7984d91dfd2.png",
     "static/media/top2rm.png": "/static/media/top2rm.d9ab8aa0a21e04ac3ef2.png",
     "static/media/bottom2rm.png": "/static/media/bottom2rm.82233d7f66e979a0d70b.png",
@@ -24,11 +25,11 @@
     "static/media/shoe2rm.png": "/static/media/shoe2rm.6384daf6e9438fcd6c1e.png",
     "index.html": "/index.html",
     "main.38ffc42f.css.map": "/static/css/main.38ffc42f.css.map",
-    "main.cf7ca04d.js.map": "/static/js/main.cf7ca04d.js.map",
+    "main.11d4aab1.js.map": "/static/js/main.11d4aab1.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.38ffc42f.css",
-    "static/js/main.cf7ca04d.js"
+    "static/js/main.11d4aab1.js"
   ]
 }
