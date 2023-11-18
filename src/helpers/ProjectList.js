@@ -1,19 +1,27 @@
 import Spreadsheet from '../assets/Spreadsheet.jpg';
-import SocialMedia from '../assets/SocialMedia.jpg';
+import pixelDrawer from '../assets/pixelDrawer.jpeg';
 import GameDay from '../assets/GameDay.jpg';
 import Todolist from '../assets/todolist.webp';
+import simonGame from '../assets/simonGameImage.jpeg';
+import DOF from '../assets/depthOfPerceptionimg.png';
+import FFR from '../assets/ffrimg.png';
 
+import pixelDrawerDoc from '../documents/pixelDrawerDescription.pdf'
 import SpreadsheetREADME from '../documents/SpreadsheetREADME.pdf';
 import GameDayWhitePaper from '../documents/GameDayWhitePaper.pdf';
 import GameDayInfographic from '../documents/GameDayInfographic.pdf';
+import simonGameREADME from '../documents/SimoneGameREADME.pdf';
+import DOFREADME from '../documents/unityDoFREADME.pdf';
+import FFRREADME from '../documents/UnityFFRREADME.pdf';
+
 
 export const ProjectList = [
   {
-    name: "Social Media Website",
-    image: SocialMedia,
-    skills: "TypeScript, ReactJS, HTML, CSS",
-    githubLink: "https://github.com/seojungood/Social-Media-Project",
-    demoLink: "https://seojungood-project1.web.app/",
+    name: "Pixel Drawer",
+    image: pixelDrawer,
+    skills: "Qt Creator, C++",
+    githubLink: pixelDrawerDoc,
+    demoLink: "https://youtu.be/o6MAB7HMz7c"
   },
   {
     name: "Spreadsheet",
@@ -23,11 +31,32 @@ export const ProjectList = [
     demoLink: "https://youtu.be/qKMoC4Z3LO0"
   },
   {
+    name: "Unity - Depth of Perception",
+    image: DOF,
+    skills: "C#, Unity",
+    githubLink: DOFREADME,
+    demoLink: "https://youtu.be/-NoYFAVE6hQ"
+  },
+  {
+    name: "Unity - Fixed Foveated Rendering / Bloom Effect",
+    image: FFR,
+    skills: "C#, Shader, Unity",
+    githubLink: FFRREADME,
+    demoLink: "https://youtu.be/C26XB8kTuMw"
+  },
+  {
     name: "Super Bowl Twitter Data Analysis",
     image: GameDay,
     skills: "Python, Tableau, Tableau Prep",
     githubLink: GameDayWhitePaper,
     demoLink: GameDayInfographic
+  },
+  {
+    name: "Simon Game",
+    image: simonGame,
+    skills: "Qt Creator, C++",
+    githubLink: simonGameREADME,
+    demoLink: "https://youtu.be/xqcWQGgMkao"
   },
   {
     name: "Todo List (Next.js)",

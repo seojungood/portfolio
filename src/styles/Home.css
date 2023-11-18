@@ -49,10 +49,10 @@
 }
 
 .links{
-  height: 60px;
   display: flex;
   align-items: center;
   justify-content: center;
+  transition: font-size 0.3s ease;
 }
 
 .skills {
@@ -79,7 +79,7 @@
 
 @media only screen and (max-width: 850px) {
   .about h2 {
-    font-size: 40px;
+    font-size: 35px;
   }
 
   .about .prompt {
@@ -90,6 +90,9 @@
 
   .prompt a, svg{
     font-size: 20px;
+  }
+  .links a {
+    font-size: 1rem;
   }
 }
 
@@ -103,5 +106,7 @@
   .skills h2 {
     font-size: 30px;
   }
+  .links a {
+    font-size: 1rem;
+  }
 }
-

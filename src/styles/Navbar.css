@@ -24,7 +24,9 @@
 .navbar a {
   color: white;
   text-decoration: none;
-  margin: 20px;
+  margin: 0; /* Remove the margin */
+  flex: 1; /* Distribute available space evenly among links */
+  text-align: center;
   font-size: 25px;
 }
 
@@ -54,7 +56,8 @@
 #open .links {
   flex-direction: column;
   justify-content: flex-start;
-  margin-top: 100px;
+  margin-top: 30px;
+  height: 50vh;
 }
 
 #open a {
@@ -88,6 +91,9 @@
   }
 
   #open .links {
-    flex-direction: row;
+    flex-direction: row
+  }
+  #open .links a{
+    height: 30%;
   }
 }

@@ -72,7 +72,12 @@ function Dressup() {
   }
 
   return (
-    <div className='dressUp'>
+    <div>
+      {/* Display message for small screens*/}
+        <div className='smallScreenMessage'>
+          A bigger screen is required to play the mini-game...
+        </div>  
+      <div className='dressUp'>
       <div className='infoContainer'>
         <InfoButton className='infoButton' 
         style={{color: 'white', fontSize: 50}} 
@@ -133,8 +138,8 @@ function Dressup() {
           </IconButton>
         </div>
       </div>
+      </div>
     </div>
-
     )
   }
   

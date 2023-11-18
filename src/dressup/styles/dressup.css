@@ -100,7 +100,7 @@
   width: 100%;
   height: 50px;
 }
-
+ 
 .fits{
   display: flex;
   display: row;
@@ -132,8 +132,23 @@ img{
   width: 100%;
 }
 
+.smallScreenMessage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  color: white;
+  font-size: 24px;
+  height: 15vh;
+  padding: 20px 50px;
+  display: none;
+}
+
 @media only screen and (max-width: 850px) {
   .dressUp{
     display: none;
+  }
+  .smallScreenMessage{
+    display: block;
   }
 }

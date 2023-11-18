@@ -31,27 +31,21 @@ function Home() {
         <h1>Skills</h1>
         <ol className='list'>
           <li className='item'>
-            <h2>Front-End</h2>
+            <h2>Programming Languages</h2>
             <span>
-              NextJS, ReactJS, NodeJS, HTML, CSS (Tailwind)
+              JavaScript, TypeScript, Java, C++, C#, HTML, CSS, Python, SQL
             </span>
           </li>
           <li className='item'>
-            <h2>Back-End</h2>
+            <h2>Libraries & Frameworks</h2>
             <span>
-              Firebase, SQL, MySQL
+              React, Next.js, NodeJS, Tailwind
             </span>
           </li>
           <li className='item'>
-            <h2>Language</h2>
+            <h2>Tools & Platforms</h2>
             <span>
-              TypeScript, JavaScript, Java, C#, C++
-            </span>
-          </li>
-          <li className='item'>
-            <h2>Data Analytics</h2>
-            <span>
-              Python, Tableau, Tableau Prep
+              Unity, Tableau, Tableau Prep, Firebase, MySQL, Docker, Qt Creator
             </span>
           </li>
         </ol>
