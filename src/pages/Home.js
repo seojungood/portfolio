@@ -39,7 +39,7 @@ function Home() {
           <li className='item'>
             <h2>Libraries & Frameworks</h2>
             <span>
-              React, Next.js, NodeJS, Tailwind
+              React.js, Next.js, Node.js, Tailwind CSS
             </span>
           </li>
           <li className='item'>

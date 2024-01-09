@@ -30,7 +30,7 @@
 a {
   color: black;
   font-weight: bold;
-  text-decoration: none; /* Remove underlines from links */
+  /* text-decoration: none; Remove underlines from links */
 }
 
 /* Add media queries for responsiveness */
