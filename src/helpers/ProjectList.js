@@ -31,7 +31,7 @@ export const ProjectList = [
     name: "Spreadsheet",
     image: Spreadsheet,
     skills: "C#, MAUI, XAML",
-    githubLink: "https://gitfront.io/r/seojungood/CmueiuD226y3/spreadsheet.git",
+    githubLink: "https://gitfront.io/r/seojungood/aNVx1mgykFWj/spreadsheet/",
     demoLink: "https://youtu.be/qKMoC4Z3LO0"
   },
   {

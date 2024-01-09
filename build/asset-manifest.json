@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.69c7dd74.css",
-    "main.js": "/static/js/main.c6dd6920.js",
+    "main.js": "/static/js/main.e69002b8.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/GameDayWhitePaper.pdf": "/static/media/GameDayWhitePaper.8a2a4df2464c52c5078d.pdf",
     "static/media/firestrike_ppt.pdf": "/static/media/firestrike_ppt.38bc842f23804f5e96a6.pdf",
@@ -35,11 +35,11 @@
     "static/media/shoe2rm.png": "/static/media/shoe2rm.6384daf6e9438fcd6c1e.png",
     "index.html": "/index.html",
     "main.69c7dd74.css.map": "/static/css/main.69c7dd74.css.map",
-    "main.c6dd6920.js.map": "/static/js/main.c6dd6920.js.map",
+    "main.e69002b8.js.map": "/static/js/main.e69002b8.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.69c7dd74.css",
-    "static/js/main.c6dd6920.js"
+    "static/js/main.e69002b8.js"
   ]
 }
