@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.69c7dd74.css",
-    "main.js": "/static/js/main.e69002b8.js",
+    "main.css": "/static/css/main.7069770e.css",
+    "main.js": "/static/js/main.7f9699c6.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/GameDayWhitePaper.pdf": "/static/media/GameDayWhitePaper.8a2a4df2464c52c5078d.pdf",
     "static/media/firestrike_ppt.pdf": "/static/media/firestrike_ppt.38bc842f23804f5e96a6.pdf",
     "static/media/GameDayInfographic.pdf": "/static/media/GameDayInfographic.402e4b42eccaecfd4847.pdf",
     "static/media/icegunga_img.png": "/static/media/icegunga_img.f4b81f5e1909a7e8c2b4.png",
-    "static/media/Resume.pdf": "/static/media/Resume.96e106cfe11d6c5e8fd3.pdf",
+    "static/media/Resume.pdf": "/static/media/Resume.2a4bccd65c5d4cc349dd.pdf",
     "static/media/UnityFFRREADME.pdf": "/static/media/UnityFFRREADME.3d95228f3f61d11e63c0.pdf",
     "static/media/pixelDrawerDescription.pdf": "/static/media/pixelDrawerDescription.7d7778f39941cc3f4ed5.pdf",
     "static/media/Spreadsheet.jpg": "/static/media/Spreadsheet.9ef91498cfba238c0e5b.jpg",
@@ -34,12 +34,12 @@
     "static/media/shoe1rm.png": "/static/media/shoe1rm.f7cd8000516decb3a51c.png",
     "static/media/shoe2rm.png": "/static/media/shoe2rm.6384daf6e9438fcd6c1e.png",
     "index.html": "/index.html",
-    "main.69c7dd74.css.map": "/static/css/main.69c7dd74.css.map",
-    "main.e69002b8.js.map": "/static/js/main.e69002b8.js.map",
+    "main.7069770e.css.map": "/static/css/main.7069770e.css.map",
+    "main.7f9699c6.js.map": "/static/js/main.7f9699c6.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.69c7dd74.css",
-    "static/js/main.e69002b8.js"
+    "static/css/main.7069770e.css",
+    "static/js/main.7f9699c6.js"
   ]
 }
