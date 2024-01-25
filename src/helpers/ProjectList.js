@@ -9,15 +9,15 @@ import firestrike_img from "../assets/vr_img.jpeg";
 import icegunga_img from "../assets/icegunga_img.png";
 import socialmedia_img from "../assets/socialmedia.jpeg";
 
-import pixelDrawerDoc from "../documents/pixelDrawerDescription.pdf";
-import SpreadsheetREADME from "../documents/SpreadsheetREADME.pdf";
+// import pixelDrawerDoc from "../documents/pixelDrawerDescription.pdf";
+// import SpreadsheetREADME from "../documents/SpreadsheetREADME.pdf";
 import GameDayWhitePaper from "../documents/GameDayWhitePaper.pdf";
 import GameDayInfographic from "../documents/GameDayInfographic.pdf";
 import simonGameREADME from "../documents/SimoneGameREADME.pdf";
-import DOFREADME from "../documents/unityDoFREADME.pdf";
-import FFRREADME from "../documents/UnityFFRREADME.pdf";
-import firestrikePPT from "../documents/firestrike_ppt.pdf";
-import icegungeREADME from "../documents/IceGungaMasterREADME.pdf";
+// import DOFREADME from "../documents/unityDoFREADME.pdf";
+// import FFRREADME from "../documents/UnityFFRREADME.pdf";
+// import firestrikePPT from "../documents/firestrike_ppt.pdf";
+// import icegungeREADME from "../documents/IceGungaMasterREADME.pdf";
 
 export const ProjectList = [
   {

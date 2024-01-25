@@ -1,15 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.7069770e.css",
-    "main.js": "/static/js/main.6865d58c.js",
+    "main.js": "/static/js/main.019e4177.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/GameDayWhitePaper.pdf": "/static/media/GameDayWhitePaper.8a2a4df2464c52c5078d.pdf",
-    "static/media/firestrike_ppt.pdf": "/static/media/firestrike_ppt.38bc842f23804f5e96a6.pdf",
     "static/media/GameDayInfographic.pdf": "/static/media/GameDayInfographic.402e4b42eccaecfd4847.pdf",
     "static/media/icegunga_img.png": "/static/media/icegunga_img.f4b81f5e1909a7e8c2b4.png",
-    "static/media/UnityFFRREADME.pdf": "/static/media/UnityFFRREADME.3d95228f3f61d11e63c0.pdf",
     "static/media/Resume.pdf": "/static/media/Resume.5bf826e709158394f921.pdf",
-    "static/media/pixelDrawerDescription.pdf": "/static/media/pixelDrawerDescription.7d7778f39941cc3f4ed5.pdf",
     "static/media/socialmedia.jpeg": "/static/media/socialmedia.5d42f9c2db2241a0b3bf.jpeg",
     "static/media/Spreadsheet.jpg": "/static/media/Spreadsheet.9ef91498cfba238c0e5b.jpg",
     "static/media/ffrimg.png": "/static/media/ffrimg.6958a6e22183f192bb8a.png",
@@ -17,18 +14,15 @@
     "static/media/vr_img.jpeg": "/static/media/vr_img.4c79972356995f5cb2f1.jpeg",
     "static/media/GameDay.jpg": "/static/media/GameDay.73c157a151875f47bd58.jpg",
     "static/media/fit2rm.png": "/static/media/fit2rm.68dc43f6c789de4b3bb4.png",
-    "static/media/SpreadsheetREADME.pdf": "/static/media/SpreadsheetREADME.ac60c6260d7721606a6a.pdf",
     "static/media/fit3rm.png": "/static/media/fit3rm.8fdec8a4af53c9c5b836.png",
     "static/media/todolist.webp": "/static/media/todolist.6a7fa87728fdf7c5ac52.webp",
     "static/media/fit1rm.png": "/static/media/fit1rm.437b6581b7984d91dfd2.png",
     "static/media/top2rm.png": "/static/media/top2rm.d9ab8aa0a21e04ac3ef2.png",
-    "static/media/IceGungaMasterREADME.pdf": "/static/media/IceGungaMasterREADME.4a055a761a3b61ea146d.pdf",
     "static/media/bottom2rm.png": "/static/media/bottom2rm.82233d7f66e979a0d70b.png",
     "static/media/bottom3rm.png": "/static/media/bottom3rm.9d2bfbc84cf0c134afaf.png",
     "static/media/top3rm.png": "/static/media/top3rm.b9ee8a8ff1aef8b18a07.png",
     "static/media/bottom1rm.png": "/static/media/bottom1rm.d1ee99554e98d108f466.png",
     "static/media/simonGameImage.jpeg": "/static/media/simonGameImage.c2fe84f6a3eb442f10e6.jpeg",
-    "static/media/unityDoFREADME.pdf": "/static/media/unityDoFREADME.f0df4f78ba522044d10a.pdf",
     "static/media/top1rm.png": "/static/media/top1rm.4f75a2b7748e3b54e139.png",
     "static/media/SimoneGameREADME.pdf": "/static/media/SimoneGameREADME.3429fdc66a6cbc0a72b2.pdf",
     "static/media/head1rm.png": "/static/media/head1rm.9db06826428acc4144e5.png",
@@ -36,11 +30,11 @@
     "static/media/shoe2rm.png": "/static/media/shoe2rm.6384daf6e9438fcd6c1e.png",
     "index.html": "/index.html",
     "main.7069770e.css.map": "/static/css/main.7069770e.css.map",
-    "main.6865d58c.js.map": "/static/js/main.6865d58c.js.map",
+    "main.019e4177.js.map": "/static/js/main.019e4177.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7069770e.css",
-    "static/js/main.6865d58c.js"
+    "static/js/main.019e4177.js"
   ]
 }
